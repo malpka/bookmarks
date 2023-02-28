@@ -14,6 +14,8 @@
 
 ### Midjourney
 
+### Chat-GPT
+
 ## NAS
 
 ## Home automation
