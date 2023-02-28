@@ -209,6 +209,7 @@ Full disk encryption software, replacement for TrueCrypt, which has been comprom
 
 ### Chat-GPT
 
+
 ## NAS
 
 ## Home automation
