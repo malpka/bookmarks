@@ -3,6 +3,9 @@
 ## Applications
 
 - [VeraCrypt - Free Open source disk encryption with strong security for the Paranoid](https://documentation.help/VeraCrypt/Command%20Line%20Usage.html) Command line. You can brute force password list for example.
+- [Kalkulator finansowy](https://kalkulatorfinansowy.app/app/#/) The most versatile financial calculator for individuals in Poland
+- [MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)  MobaXterm Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more. Putty killer! It can easily use PEM keys for authehtication.
+- [Personal online office](https://personal.onlyoffice.com/) Download free desktop app to edit files offline or connect to your cloud.<br/><img src="https://personal.onlyoffice.com/site-assets/screenshots/en-US/doc.png">
 
 ## System tools
 
@@ -23,10 +26,47 @@
   `wmic memorychip list full`<br/>
   `wmic memorychip get devicelocator, manufacturer, partnumber, serialnumber, capacity, speed, memorytype, formfactor`<br/>
 
+## Linux
+
+- [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+- [How do I scroll in tmux?](https://superuser.com/questions/209437/how-do-i-scroll-in-tmux)<br/>
+  `Ctrl-b then [ then arrows`
+- [How to run SSH server on multiple ports](https://www.simplified.guide/ssh/run-multiple-ports)
+- [How to view connected users to open vpn server?](https://serverfault.com/questions/571592/how-to-view-connected-users-to-open-vpn-server)<br/>
+  `cat /etc/openvpn/openvpn-status.log`<br/>
+  `server.conf -> 'management localhost 7505'`<br/>
+  `telnet localhost 7505`
+- [linux mint - OpenSSL: error:0A00018E:SSL routines::ca md too weak - Super User](https://superuser.com/questions/1737052/openssl-error0a00018essl-routinesca-md-too-weak)<br/>
+  `tls-cipher "DEFAULT:@SECLEVEL=0"`
+- [Pakiet: apt-utils (2.5.6) Programy narzędziowe związane z zarządzaniem pakietami](https://packages.debian.org/pl/sid/apt-utils)
+- [NetToolsDeprecation](https://wiki.debian.org/NetToolsDeprecation) Debian
+- [ss(8) — Linux manual page](https://man7.org/linux/man-pages/man8/ss.8.html) ss - another utility to investigate sockets<br/>
+  You can use ss just like netstat:<br/>
+  `ss -tanp`<br/>
+  `ss -u -a`
+- [Deprecated Linux networking commands and their replacements](https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/#netstat)
+
+
+|Deprecatedcommand|Replacement command(s)|
+|:-----------------|:----------------------|
+|arp|ip n (ip neighbor)|
+|ifconfig|ip a (ip addr), ip link, ip -s (ip -stats)|
+|iptunnel|ip tunnel|
+|iwconfig|iw|
+|nameif|ip link, ifrename|
+|netstat|ss, ip route (for netstat-r), ip -s link (for netstat -i), ip maddr (for netstat-g)|
+|route|ip r (ip route)|
+-
+
+### Docker
+
+- [Getting started with Docker for Arm on Linux](https://www.docker.com/blog/getting-started-with-docker-for-arm-on-linux/)
+- [Nginx official Docker image](https://hub.docker.com/_/nginx) Usage help included
+
 ## Android
 
 - [How do I get the APK of an installed app without root access?](https://stackoverflow.com/questions/11012976/how-do-i-get-the-apk-of-an-installed-app-without-root-access) <br/>
-  adb shell pm list packages
+  ```adb shell pm list packages
   adb shell pm path your-package-name
   adb pull full/directory/of/the.apk
   for i in $(adb shell pm list packages | awk -F':' '{print $2}'); do 
@@ -60,6 +100,12 @@
 
 ## System tools
 
+## E-Shop
+
+- [Integracje API oraz z popularnymi platformami - epaka.pl biznes](https://www.epaka.pl/biznes/integracje) Woocommerce Prestashop Allegro.pl Shoper
+- [Integracje - Furgonetka.pl](https://furgonetka.pl/konto/integracje/)
+- [Woo Marketplace Grow your business with hundreds of solutions to solve all your logistical, technical, and marketing needs.](https://woocommerce.com/products/) 
+
 ## Games
 
 ### Vermintide 2
@@ -69,6 +115,10 @@
 ## Health
 
 - [7 ćwiczeń na kręgosłup piersiowy - Rehabilitacja](https://www.rehafit.org/cwiczenia-zwiekszajace-ruchomosc-kregoslupa/)
+
+## Investing 
+
+- [Wskaźniki wartości rynkowej MFO - BiznesRadar.pl](https://www.biznesradar.pl/wskazniki-wartosci-rynkowej/MFO)
 
 ## 3D Print
 
@@ -94,6 +144,8 @@
 ## Cloud
 
 - [Principles for designing and deploying scalable applications on Kubernetes | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/02/17/principles-for-designing-and-deploying-scalable-applications-on-kubernetes/)
+- [Opening port 80 on Oracle Cloud Infrastructure Compute node - Stack Overflow](https://stackoverflow.com/questions/54794217/opening-port-80-on-oracle-cloud-infrastructure-compute-node)
+- [Ubuntu Manpage: netfilter-persistent - load, flush and save netfilter rule sets](https://manpages.ubuntu.com/manpages/xenial/man8/netfilter-persistent.8.html)
 
 ## Programming
 
@@ -106,3 +158,4 @@
 - [TessFerrandez/BuggyBits: Debugging Labs - .NET and WinDbg](https://github.com/TessFerrandez/BuggyBits) Buggy Bits is source code for a set of .net post mortem (hang, crash, memory) debugging labs.
 - [Introducing .NET MAUI - One Codebase, Many Platforms - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms) 
 - [Ten cholerny CORS dogłębnie](https://masterbranch.pl/ten-cholerny-cors-doglebnie/)
+- [A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe)](https://github.com/awaescher/Fusion) <img src="https://github.com/awaescher/Fusion/raw/master/_doc/Fusion++NoDetail.png">
