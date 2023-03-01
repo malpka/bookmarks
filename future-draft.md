@@ -63,6 +63,10 @@
 - [Getting started with Docker for Arm on Linux](https://www.docker.com/blog/getting-started-with-docker-for-arm-on-linux/)
 - [Nginx official Docker image](https://hub.docker.com/_/nginx) Usage help included
 
+##  Windows
+
+- [Logiciels pas cher : Clés de licences Windows, Office, antivirus, jeux-vidéos... | Destock Informatique](https://www.destock-informatique.com/) Windows and Office licenses
+
 ## Android
 
 - [How do I get the APK of an installed app without root access?](https://stackoverflow.com/questions/11012976/how-do-i-get-the-apk-of-an-installed-app-without-root-access) <br/>
@@ -146,12 +150,28 @@
 - [Principles for designing and deploying scalable applications on Kubernetes | Cloud Native Computing Foundation](https://www.cncf.io/blog/2022/02/17/principles-for-designing-and-deploying-scalable-applications-on-kubernetes/)
 - [Opening port 80 on Oracle Cloud Infrastructure Compute node - Stack Overflow](https://stackoverflow.com/questions/54794217/opening-port-80-on-oracle-cloud-infrastructure-compute-node)
 - [Ubuntu Manpage: netfilter-persistent - load, flush and save netfilter rule sets](https://manpages.ubuntu.com/manpages/xenial/man8/netfilter-persistent.8.html)
+- [Make formerly Integromat | Work the way you imagine](https://www.make.com/en) From tasks and workflows to apps and systems, build and automate anything in one powerful visual platform. Free 1000 ops/month<br/>
+<img src="https://www.make.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqqlj6g4ee76j%2F3tAR2weCRJT0sKWJMDf6SH%2Fb2498e44da8caec3bf156eb2675850d0%2Fimage__20_.png&w=1920&q=90"/>
+- [Najlepsza nazwa kanału YouTube - jaką wybrać i dlaczego jest tak ważna? | iCEA Group](https://www.grupa-icea.pl/najlepsza-nazwa-kanalu-youtube-jaka-wybrac-i-dlaczego-jest-tak-wazna/)
 
 ## Programming
 
 - [Quasar Framework](https://quasar.dev/) Effortlessly build high-performance & high-quality Vue.js 3 user interfaces in record time. First version of https://kalkulatorfinansowy.app/ was published using this Framework as I remember. Later it was moved to VueJS. https://quasar.dev/quasar-cli-webpack/routing
 - [Vue Router](https://router.vuejs.org/) The official Router for Vue.js. Expressive, configurable and convenient routing for Vue.js
 - [You Probably Don&#x27;t Need to Worry About MediatR](https://jimmybogard.com/you-probably-dont-need-to-worry-about-mediatr)
+- [Reverse engineering STM32 firmware | by Alexander Olenyev | TechMaker | Medium](https://medium.com/techmaker/reverse-engineering-stm32-firmware-578d53e79b3)
+- [radare](https://rada.re/r/) Radare is a portable reversing framework that can…
+  - Disassemble (and assemble for) many different architectures
+  - Debug with local native and remote debuggers (gdb, rap, webui, r2pipe, winedbg, windbg)
+  - Run on Linux, *BSD, Windows, OSX, Android, iOS, Solaris and Haiku
+  - Perform forensics on filesystems and data carving
+  - Be scripted in Python, Javascript, Go and more
+  - Support collaborative analysis using the embedded webserver
+  - Visualize data structures of several file types
+  - Patch programs to uncover new features or fix vulnerabilities
+  - Use powerful analysis capabilities to speed up reversing
+  - Aid in software exploitation<br/>
+  <img src="https://rada.re/r/img/webui.png"/>
 
 ### .NET
 
@@ -169,6 +189,8 @@
 - [Signed driver malware moves up the software trust chain – Sophos News](https://news.sophos.com/en-us/2022/12/13/signed-driver-malware-moves-up-the-software-trust-chain/) BURNTCIGAR; signed driver; WinRing0; sc create; IoCreateDevice 
  
 
+
+
 ## Amateur Radio
 
 - [Jak zostać krótkofalowcem? - HamNews.pl](https://hamnews.pl/jak-zostac-krotkofalowcem/) How to become a legal amateur radio user in Poland. Details about exams, tests.
@@ -179,5 +201,6 @@
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) <br/> #cloud/vps/shell/bash/linux
   Oracle gives totally for free a possibility to create a VPS linux machine, that you can manipulate using SSH. You can treat it as a development / testing environment.<br/>
   <img src="https://raw.githubusercontent.com/malpka/bookmarks/main/images/2023-01-21_161317.png" alt="Oracle img" width="200" onmouseover="this.width='400'" onmouseout="this.width='200'"/>
+- [Darmowy serwer VPS ARM z 4 Rdzeniami, 24 GB RAM i 200 GB Dysk za darmo. | Pepper](https://www.pepper.pl/promocje/darmowy-serwer-vps-arm-z-4-procesorami-24-gb-ram-i-200-gb-pamieci-za-darmo-618087)
 - [Opening port 80 on Oracle Cloud Infrastructure Compute node - Stack Overflow](https://stackoverflow.com/questions/54794217/opening-port-80-on-oracle-cloud-infrastructure-compute-node)
 - [Ubuntu Manpage: netfilter-persistent - load, flush and save netfilter rule sets](https://manpages.ubuntu.com/manpages/xenial/man8/netfilter-persistent.8.html)
