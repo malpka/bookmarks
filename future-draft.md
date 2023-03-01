@@ -159,3 +159,25 @@
 - [Introducing .NET MAUI - One Codebase, Many Platforms - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms) 
 - [Ten cholerny CORS dogłębnie](https://masterbranch.pl/ten-cholerny-cors-doglebnie/)
 - [A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe)](https://github.com/awaescher/Fusion) <img src="https://github.com/awaescher/Fusion/raw/master/_doc/Fusion++NoDetail.png">
+
+## Security
+
+- [SekurakTV - Jak skutecznie monitorować cyberbezpieczeństwo i od czego zacząć?](https://www.youtube.com/watch?v=dzaK-LgpJKs)
+- [SekurakTV - Dlaczego hackowanie aplikacji webowych jest proste? Szkolenie od sekuraka](https://www.youtube.com/watch?v=2S15DyhTlsU)
+- [Bezpieczeństwo Windows – czym jest LSASS dump. Jak się przed nim chronić?](https://sekurak.pl/bezpieczenstwo-windows-czym-jest-lsass-dump-jak-sie-przed-nim-chronic) Windows Security - what is LSASS dump and how to protect against it
+- [The End of PPLdump | itm4n's blog](https://itm4n.github.io/the-end-of-ppldump/)
+- [Signed driver malware moves up the software trust chain – Sophos News](https://news.sophos.com/en-us/2022/12/13/signed-driver-malware-moves-up-the-software-trust-chain/) BURNTCIGAR; signed driver; WinRing0; sc create; IoCreateDevice 
+ 
+
+## Amateur Radio
+
+- [Jak zostać krótkofalowcem? - HamNews.pl](https://hamnews.pl/jak-zostac-krotkofalowcem/) How to become a legal amateur radio user in Poland. Details about exams, tests.
+- [Czestotliwosci - Pozwolenia Radiowe](https://czestotliwosci.pl.tl/Pozwolenia-Radiowe.htm) Important radio frequencies in Poland
+
+## Oracle Cloud Free Tier resources
+
+- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) <br/> #cloud/vps/shell/bash/linux
+  Oracle gives totally for free a possibility to create a VPS linux machine, that you can manipulate using SSH. You can treat it as a development / testing environment.<br/>
+  <img src="https://raw.githubusercontent.com/malpka/bookmarks/main/images/2023-01-21_161317.png" alt="Oracle img" width="200" onmouseover="this.width='400'" onmouseout="this.width='200'"/>
+- [Opening port 80 on Oracle Cloud Infrastructure Compute node - Stack Overflow](https://stackoverflow.com/questions/54794217/opening-port-80-on-oracle-cloud-infrastructure-compute-node)
+- [Ubuntu Manpage: netfilter-persistent - load, flush and save netfilter rule sets](https://manpages.ubuntu.com/manpages/xenial/man8/netfilter-persistent.8.html)
