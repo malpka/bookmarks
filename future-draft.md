@@ -156,6 +156,9 @@ For Windows, macOS and Linux](https://www.duplicati.com/)<br/><img src="https://
 ## 3D Print
 
 - [How to edit STL files | Complete Guide 2023](https://www.crealitycloud.com/blog/tutorials/how-to-edit-stl-files)
+- [📺 Import and Edit STL Files in Fusion 360 2022 - YouTube](https://www.youtube.com/watch?v=CeMHqa9Pxn8)
+- [📺 How to edit stl file in solidworks | Hybrid Modeling - YouTube](https://www.youtube.com/watch?v=leEFq2aEEME)
+- [📺 How to import and edit STL files in Blender - YouTube](https://www.youtube.com/watch?v=KXBBec-iIuc)
 
 
 ## AI
@@ -164,6 +167,8 @@ For Windows, macOS and Linux](https://www.duplicati.com/)<br/><img src="https://
 
 
 ### Midjourney
+
+- [Stable Diffusion 2-1 - a Hugging Face Space by stabilityai](https://huggingface.co/)
 
 
 ## NAS
@@ -230,7 +235,7 @@ Available for several major cloud providers, including: AWS (EC2 or Lightsail), 
   - Aid in software exploitation<br/>
   <img src="https://rada.re/r/img/webui.png"/>
 - [Challenging algorithms and data structures every programmer should try - Austin Z. Henley](https://austinhenley.com/blog/challengingalgorithms.html)
-
+- [The best way to build web apps without code | Bubble](https://bubble.io/) no-code platform
 
 ### .NET
 
@@ -239,6 +244,7 @@ Available for several major cloud providers, including: AWS (EC2 or Lightsail), 
 - [Ten cholerny CORS dogłębnie](https://masterbranch.pl/ten-cholerny-cors-doglebnie/)
 - [A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe)](https://github.com/awaescher/Fusion) <img src="https://github.com/awaescher/Fusion/raw/master/_doc/Fusion++NoDetail.png"/>
 - [Ten cholerny CORS dogłębnie - Master Branch](https://masterbranch.pl/ten-cholerny-cors-doglebnie) This bloody CORS in detail
+- [Walidacja opcji - Master Branch](https://masterbranch.pl/walidacja-opcji/) Option validation in .NET using adnotations or fluent validation.
 
 
 ## Security
